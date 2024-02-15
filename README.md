@@ -1,1 +1,1 @@
-# Weather-Forecast-app-JS-
+# Weather-Forecast-JS-
